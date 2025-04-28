@@ -1,6 +1,7 @@
-# Exploratory Data Analysis Monorepo
+# Exploratory Data Analysis
 
-Welcome to the **Exploratory Data Analysis Monorepo** – a centralized repository that contains a collection of Exploratory Data Analysis (EDA) projects. This monorepo is designed to showcase various data analysis techniques, visualizations, and insights across multiple datasets.
+Welcome to the Exploratory Data Analysis (EDA) section of the Data Science Monorepo.
+This folder contains multiple EDA projects showcasing data exploration, statistical analysis, and visualization skills across various datasets.
 
 ## About
 
