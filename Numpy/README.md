@@ -22,3 +22,10 @@ This folder contains Jupyter notebooks that cover key concepts in NumPy:
     - Random number generation and sampling
     - Aggregations with axes
     - Applied example: Z-score normalization
+
+- **Exercises**
+
+    **100 Numpy Exercises.ipynb**
+    - A curated set of 100 exercises to practice and reinforce NumPy concepts
+    - Covers beginner to advanced-level topics
+    - Great for interviews and hands-on learning
